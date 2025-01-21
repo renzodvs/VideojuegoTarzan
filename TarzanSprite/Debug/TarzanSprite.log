@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\salvador ventura\documents\visual studio 2015\projects\tarzansprite\tarzansprite\Ranking.h(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: vea la declaración de 'fopen'
+c:\users\salvador ventura\documents\visual studio 2015\projects\tarzansprite\tarzansprite\Ranking.h(154): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: vea la declaración de 'fscanf'
+c:\users\salvador ventura\documents\visual studio 2015\projects\tarzansprite\tarzansprite\MyForm.h(1108): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+c:\users\salvador ventura\documents\visual studio 2015\projects\tarzansprite\tarzansprite\MyForm.h(1108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: vea la declaración de 'sprintf'
+c:\users\salvador ventura\documents\visual studio 2015\projects\tarzansprite\tarzansprite\MyForm.h(1111): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: vea la declaración de 'fopen'
+  ArmasTarzan.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  TarzanSprite.vcxproj -> C:\Users\SALVADOR VENTURA\Documents\Visual Studio 2015\Projects\TarzanSprite\Debug\TarzanSprite.exe
+  TarzanSprite.vcxproj -> C:\Users\SALVADOR VENTURA\Documents\Visual Studio 2015\Projects\TarzanSprite\Debug\TarzanSprite.pdb (Partial PDB)

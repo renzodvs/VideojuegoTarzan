@@ -1,0 +1,45 @@
+  TarzanSprite.MyForm.resources - Embedded, ContainedInManifestFile, 
+  TarzanSprite.Ranking.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly TarzanSprite, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TarzanSprite.Ranking: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TarzanSprite.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    CArrEnemigos* oArrTiburones : Public
+    CArrEnemigos* oArrCazadores : Public
+    CArrEnemigos* oArrTigres : Public
+    CTarzan* oTarzan : Public
+    CJane* oJane : Public
+    CArrChita* oArrChita : Public
+    CArrArmasTarzan* oArrCuchillos : Public
+    CArrArmasTarzan* oArrLanzas : Public
+    CArrArmasTarzan* oArrFlechas : Public
+    CArrLianas* oArrLianas : Public
+    Int32 fase : Public
+    Int32 puntaje : Public
+    Int32 tiempo : Public
+    Int32 contadorCazadores : Public
+    Int32 contadorTiburones : Public
+    Int32 contadorTigres : Public
+    Int32 contadorCuchillos : Public
+    Int32 contadorLanzas : Public
+    Int32 contadorFlechas : Public
+    Int32 indiceX_Final : Public
+    Int32 indiceY_Final : Public
